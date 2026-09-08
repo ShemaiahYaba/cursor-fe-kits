@@ -25,6 +25,8 @@ ui-fundamentals/
 
 **31 files** vs ~600+ across the original four repos.
 
+**Companion pack:** [`fe-testing/`](../fe-testing/) — Vitest, Playwright, and test workflow skills.
+
 ## Quick start
 
 Copy into your project:
