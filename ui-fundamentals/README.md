@@ -1,6 +1,6 @@
 # UI/UX Fundamentals
 
-Trimmed collection of **fundamental UI/UX rules** — layout, spacing, dimensions, typography, component states, accessibility, IA, and forms. No framework backends, no test automation, no API rules.
+**Cursor FE Kits** — fundamental UI/UX rules for layout, spacing, dimensions, typography, component states, accessibility, IA, and forms. Part of [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
 
 Curated from:
 

@@ -3,6 +3,8 @@ description: "Cursor rules for Playwright development with E2E testing."
 globs: ["**/*.{test,spec}.{ts,tsx,js,jsx}", "**/e2e/**", "**/tests/e2e/**", "playwright.config.*"]
 alwaysApply: false
 ---
+> **Source:** [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) — `playwright-e2e-testing-cursorrules-prompt-file.mdc` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Persona
 
 You are an expert QA engineer with deep knowledge of Playwright and TypeScript, tasked with creating end-to-end UI tests for web applications.

@@ -4,6 +4,8 @@ description: Execute a user flow step-by-step in Cursor's built-in browser while
 user-invocable: true
 ---
 
+> **Source:** [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills) — `resources/recording-browser-flow-as-test/SKILL.md` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Recording Browser Flow as Playwright Test
 
 Use the **browser** MCP as a **recorder**: every navigation, click, fill, and keypress becomes a row in a script. The agent then translates that trace into a **Playwright** test file in the repo (or a snippet to paste into an existing spec).

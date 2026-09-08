@@ -1,6 +1,6 @@
 # Frontend Testing Fundamentals
 
-Trimmed collection for **Vitest, Jest, and Playwright** — unit/component tests, E2E flows, a11y regression, and test workflow skills. Pairs with [`ui-fundamentals/`](../ui-fundamentals/) (design rules) and [`ui-fundamentals/skills/`](../ui-fundamentals/skills/) (manual browser QA).
+**Cursor FE Kits** — trimmed collection for **Vitest, Jest, and Playwright**. Part of [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
 
 Curated from:
 

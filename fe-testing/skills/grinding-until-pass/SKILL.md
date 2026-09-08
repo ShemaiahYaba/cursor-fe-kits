@@ -3,6 +3,8 @@ name: grinding-until-pass
 description: Keep iterating on code changes until the tests pass, the build succeeds, or linting is clean. Runs in a tight loop of fix → run → check → repeat. Use when you want the agent to autonomously grind through test failures or build errors.
 ---
 
+> **Source:** [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills) — `resources/grinding-until-pass/SKILL.md` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Grind Until Pass
 
 Use this skill when you want the agent to keep working autonomously until a specific goal is met — all tests pass, the build succeeds, or linting is clean. Instead of stopping after one attempt, the agent loops until done.

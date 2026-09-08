@@ -3,6 +3,8 @@ description: "Cursor rules for Playwright development with accessibility testing
 globs: ["**/*.{test,spec,a11y}.{ts,tsx,js,jsx}", "**/e2e/**", "**/tests/a11y/**", "playwright.config.*"]
 alwaysApply: false
 ---
+> **Source:** [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) — `playwright-accessibility-testing-cursorrules-prompt-file.mdc` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Persona
 
 You are an expert QA engineer specializing in accessibility testing with Playwright and TypeScript, dedicated to ensuring web applications are usable by people with disabilities.

@@ -3,6 +3,8 @@ name: adding-e2e-tests
 description: Set up Playwright end-to-end testing in a project, including test configuration, example tests, and CI integration.
 ---
 
+> **Source:** [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills) — `resources/adding-e2e-tests/SKILL.md` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Add E2E Tests (Playwright)
 
 Use this skill when the user asks to add end-to-end tests, browser tests, integration tests, or set up Playwright.

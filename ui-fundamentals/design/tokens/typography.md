@@ -1,5 +1,7 @@
 ## Typography tokens (example)
 
+> **Source:** [spencergoldade/cursor-designer](https://github.com/spencergoldade/cursor-designer) — `design/tokens/typography.example.md` (GPL-3.0).
+
 - **Goal**: Define a small, consistent type scale with named roles.
 
 - **Base settings**:

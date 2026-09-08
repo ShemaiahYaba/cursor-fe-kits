@@ -4,6 +4,8 @@ globs: ["**/*.tsx", "**/*.jsx", "**/*.vue", "**/*.svelte", "**/*.css", "**/*.scs
 alwaysApply: false
 ---
 
+> **Source:** [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) — `rules/toss-style-design-system.mdc` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Toss-Style Design System Rules
 
 ## Design Direction

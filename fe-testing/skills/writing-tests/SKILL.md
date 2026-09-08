@@ -3,6 +3,8 @@ name: writing-tests
 description: Analyze existing code and write comprehensive unit and integration tests for it. Detects the test framework, identifies untested code paths, and generates tests with proper mocking, edge cases, and assertions. Use when the user asks to add tests, improve coverage, or test a specific module.
 ---
 
+> **Source:** [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills) — `resources/writing-tests/SKILL.md` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Writing Tests
 
 Use this skill when the user asks to add tests to existing code, improve test coverage, or write tests for a specific file or module.

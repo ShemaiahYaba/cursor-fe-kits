@@ -4,6 +4,8 @@ description: Toggle between light and dark mode in Cursor's browser, screenshot 
 user-invocable: true
 ---
 
+> **Source:** [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills) — `resources/dark-mode-testing/SKILL.md` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Dark Mode Testing
 
 Verify that dark mode works correctly by toggling themes and comparing.

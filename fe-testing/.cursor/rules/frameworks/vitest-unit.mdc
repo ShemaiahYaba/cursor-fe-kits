@@ -3,6 +3,8 @@ description: "Cursor rules for Vitest development with unit testing."
 globs: ["**/*.{test,spec}.{ts,tsx,js,jsx}", "**/__tests__/**", "vitest.config.*"]
 alwaysApply: false
 ---
+> **Source:** [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) — `vitest-unit-testing-cursorrules-prompt-file.mdc` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Persona
 
 You are an expert developer with deep knowledge of Vitest and TypeScript, tasked with creating unit tests for JavaScript/TypeScript applications.

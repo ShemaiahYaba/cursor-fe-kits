@@ -4,6 +4,8 @@ description: Open the app in Cursor's browser at multiple viewport sizes, screen
 user-invocable: true
 ---
 
+> **Source:** [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills) — `resources/responsive-testing/SKILL.md` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Responsive Testing
 
 After a UI change, verify the app looks correct at all standard breakpoints.

@@ -1,5 +1,7 @@
 ## Spacing tokens (example)
 
+> **Source:** [spencergoldade/cursor-designer](https://github.com/spencergoldade/cursor-designer) — `design/tokens/spacing.example.md` (GPL-3.0).
+
 - **Goal**: Provide a simple spacing scale to use across layout and components.
 
 - **Scale** (you can adjust the numeric values, but keep the pattern):

@@ -3,6 +3,8 @@ description: "Cursor rules for RTL development with logical CSS properties, Tail
 globs: **/*
 alwaysApply: false
 ---
+> **Source:** [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) — `rtl-right-to-left-i18n-cursorrules-prompt-file.mdc` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # RTL (Right-to-Left) Development Rules
 
 You are an expert in building applications that support RTL (Right-to-Left) languages including Hebrew, Arabic, Persian, and Urdu.

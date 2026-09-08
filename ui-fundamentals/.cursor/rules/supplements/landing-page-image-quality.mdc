@@ -3,6 +3,8 @@ description: "Cursor rules for avoiding placeholder or broken image URLs, using 
 globs: **/*
 alwaysApply: false
 ---
+> **Source:** [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) — `landing-page-image-quality-cursorrules-prompt-file.mdc` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Landing Page Image Quality
 
 When generating or editing user-facing pages, use real, relevant visual assets instead of placeholder image services.

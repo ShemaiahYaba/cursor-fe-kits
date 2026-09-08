@@ -3,6 +3,8 @@ description: Core E2E testing fundamentals — reliable selectors, waiting strat
 globs: ["**/*.{test,spec}.{ts,tsx,js,jsx}", "**/e2e/**", "**/tests/**", "**/playwright/**", "playwright.config.*", "cypress.config.*", "vitest.config.*"]
 alwaysApply: false
 ---
+> **Source:** [tugkanboz/awesome-cursorrules](https://github.com/tugkanboz/awesome-cursorrules) — `frameworks/cypress/.cursor/rules/core/testing-fundamentals.mdc` (MIT). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # E2E Testing Fundamentals
 
 Stack-agnostic principles for browser and integration tests. Examples use Cypress syntax; apply the same ideas in Playwright (`getByRole`, `getByTestId`, auto-waiting).

@@ -4,6 +4,8 @@ description: Use Cursor's browser aria snapshots to audit a page for accessibili
 user-invocable: true
 ---
 
+> **Source:** [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills) — `resources/accessibility-auditing/SKILL.md` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Accessibility Auditing
 
 Audit a web page for accessibility issues using Cursor's built-in browser without external tools.

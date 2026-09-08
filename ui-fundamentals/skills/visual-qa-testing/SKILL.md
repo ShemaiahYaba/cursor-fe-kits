@@ -3,6 +3,8 @@ name: visual-qa-testing
 description: Visually QA a web application by launching it in Cursor's built-in browser, taking screenshots, checking console errors, and auditing network requests. Use after making UI changes to verify they look correct.
 ---
 
+> **Source:** [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills) — `resources/visual-qa-testing/SKILL.md` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Visual QA
 
 Use this skill after making UI changes to visually verify the result, catch console errors, and audit network requests — all without leaving Cursor.

@@ -4,6 +4,8 @@ description: Enforce a configuration-driven design system when generating UI. En
 user-invocable: true
 ---
 
+> **Source:** [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills) — `resources/using-ui-stack/SKILL.md` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Using UI Stack
 
 Apply a structured design system to every UI component you generate. This prevents inconsistent padding, mismatched colors, and forgotten hover states.

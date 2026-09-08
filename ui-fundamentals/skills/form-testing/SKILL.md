@@ -4,6 +4,8 @@ description: Use Cursor's browser to fill and submit every form in the app with 
 user-invocable: true
 ---
 
+> **Source:** [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills) — `resources/form-testing/SKILL.md` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Form Testing
 
 Systematically test every form in the app using Cursor's built-in browser.

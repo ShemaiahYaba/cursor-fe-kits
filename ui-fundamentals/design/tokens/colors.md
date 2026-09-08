@@ -1,5 +1,7 @@
 ## Color tokens (example)
 
+> **Source:** [spencergoldade/cursor-designer](https://github.com/spencergoldade/cursor-designer) — `design/tokens/colors.example.md` (GPL-3.0).
+
 - **Goal**: Define semantic color roles you can map to any palette.
 
 - **Suggested roles**:

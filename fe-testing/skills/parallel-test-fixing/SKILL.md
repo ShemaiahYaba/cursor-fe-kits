@@ -4,6 +4,8 @@ description: When multiple tests fail, assign each failing test file to a separa
 user-invocable: true
 ---
 
+> **Source:** [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills) — `resources/parallel-test-fixing/SKILL.md` (CC0 1.0). Adapted for [Cursor FE Kits](https://github.com/ShemaiahYaba/cursor-fe-kits).
+
 # Parallel Test Fixing
 
 Speed up fixing a broken test suite by distributing failing tests across parallel subagents.

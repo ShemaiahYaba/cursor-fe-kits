@@ -1,0 +1,12 @@
+# Upstream clones used for curation — not part of this distribution
+PatrickJS-awesome-cursorrules/
+tugkanboz-awesome-cursorrules/
+cursor-designer/
+awesome-cursor-skills/
+
+# OS & editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

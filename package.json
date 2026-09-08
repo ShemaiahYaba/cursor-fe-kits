@@ -1,0 +1,23 @@
+{
+  "name": "cursor-fe-kits",
+  "version": "1.0.0",
+  "description": "Curated Cursor rules and skills for frontend UI/UX and testing",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShemaiahYaba/cursor-fe-kits.git"
+  },
+  "keywords": [
+    "cursor",
+    "cursor-rules",
+    "cursor-skills",
+    "ui-ux",
+    "design-system",
+    "vitest",
+    "playwright",
+    "frontend",
+    "accessibility"
+  ],
+  "license": "GPL-3.0",
+  "author": "Shemaiah Wambebe Yaba-Shiaka"
+}
