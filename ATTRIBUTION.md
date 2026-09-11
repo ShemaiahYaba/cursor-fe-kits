@@ -10,6 +10,14 @@
 | [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills) | Spencer Pauly | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | Skills in both packs |
 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | PatrickJS | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | Supplements, Playwright/Vitest/Jest rules |
 | [tugkanboz/awesome-cursorrules](https://github.com/tugkanboz/awesome-cursorrules) | Tuğkan Boz | [MIT](https://opensource.org/licenses/MIT) | `fe-testing/` E2E fundamentals |
+| [Adam Hayes — The UX Laws in My CLAUDE.md](https://adamhayes.xyz/blog/the-ux-laws-in-my-claude-md) | Adam Hayes | Blog post (copy freely) | `ui-fundamentals/` UX design laws |
+
+### Adapted from Adam Hayes
+
+| File | Upstream |
+|------|----------|
+| `ui-fundamentals/.cursor/rules/frontend/ux-design-laws.mdc` | [The UX Laws in My CLAUDE.md](https://adamhayes.xyz/blog/the-ux-laws-in-my-claude-md) |
+| `ui-fundamentals/design/content/ux-design-laws.md` | Summary reference of the above |
 
 ## File-level source map
 
@@ -21,7 +29,7 @@ All files below retain inline credit: *Rules curated by Spencer Goldade (spencer
 |------|---------------|
 | `.cursor/rules/core/design-core.mdc` | `.cursor/rules/core/design-core.mdc` |
 | `.cursor/rules/core/cursor-behavior-constraints.mdc` | `.cursor/rules/core/cursor-behavior-constraints.mdc` |
-| `.cursor/rules/frontend/*.mdc` (8 files) | `.cursor/rules/frontend/*.mdc` |
+| `.cursor/rules/frontend/*.mdc` (8 files from cursor-designer) | `.cursor/rules/frontend/*.mdc` |
 | `.cursor/rules/binders/design-quality-testing.mdc` | `.cursor/rules/binders/design-quality-testing.mdc` |
 | `.cursor/rules/binders/cross-platform-ux-consistency.mdc` | `.cursor/rules/binders/cross-platform-ux-consistency.mdc` |
 | `design/tokens/spacing.md` | `design/tokens/spacing.example.md` |
@@ -91,6 +99,16 @@ Do **not** remove upstream attribution when copying into your projects:
 
 - **cursor-designer** rules: keep the Spencer Goldade credit line
 - **PatrickJS / tugkanboz / awesome-cursor-skills** files: keep the `Source:` line at the top of each file
+
+## Recommended external resources
+
+Not included in this repo — linked for convenience:
+
+| Resource | URL | Use for |
+|----------|-----|---------|
+| [Refero Styles](https://styles.refero.design/) | styles.refero.design | Brand-specific `DESIGN.md` files (colors, type, spacing, components) from 2,000+ real product sites |
+
+See [ui-fundamentals/design/references.md](./ui-fundamentals/design/references.md) for workflow.
 
 ## License compatibility
 

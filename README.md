@@ -7,7 +7,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue.svg" alt="License: GPL-3.0"></a>
   <a href="./ui-fundamentals"><img src="https://img.shields.io/badge/pack-UI%20Fundamentals-6366f1" alt="UI Fundamentals"></a>
   <a href="./fe-testing"><img src="https://img.shields.io/badge/pack-FE%20Testing-22c55e" alt="FE Testing"></a>
-  <img src="https://img.shields.io/badge/files-~45-888" alt="~45 curated files">
+  <img src="https://img.shields.io/badge/files-~47-888" alt="~47 curated files">
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 | Pack | What it does | Files |
 |------|--------------|-------|
-| [**ui-fundamentals**](./ui-fundamentals/) | Layout, spacing, typography, component states, a11y, IA, forms | 31 |
+| [**ui-fundamentals**](./ui-fundamentals/) | Layout, spacing, typography, component states, a11y, IA, forms, UX laws | 33 |
 | [**fe-testing**](./fe-testing/) | Vitest, Jest, Playwright, E2E fundamentals, test workflows | 14 |
 
 No backend noise. No framework template bloat. Copy what you need.
@@ -85,6 +85,10 @@ See each pack's README for profile details:
 | `accessibility-frontend.mdc` | `accessibility-auditing` skill | `playwright-a11y.mdc` |
 | `ux-forms-and-validation.mdc` | `form-testing` skill | Vitest form specs |
 
+## External resources
+
+**Brand-specific design systems:** [Refero Styles](https://styles.refero.design/) — browse 2,000+ `DESIGN.md` files from real products (Linear, Apple, Calendly, etc.). Pair with ui-fundamentals rules for principles + taste. See [design/references.md](./ui-fundamentals/design/references.md).
+
 ## Profiles at a glance
 
 ### UI (`ui-fundamentals/`)
@@ -120,7 +124,8 @@ cursor-fe-kits/
 │   └── profiles/
 ├── scripts/install.sh        # One-command installer
 ├── ATTRIBUTION.md            # Upstream credits & licenses
-└── CONTRIBUTING.md
+├── CONTRIBUTING.md
+└── ui-fundamentals/design/references.md  # Refero Styles & more
 ```
 
 ## Publishing checklist
@@ -141,7 +146,7 @@ git push -u origin main
 
 ## Attribution
 
-Curated from [cursor-designer](https://github.com/spencergoldade/cursor-designer), [awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills), [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules), and [tugkanboz/awesome-cursorrules](https://github.com/tugkanboz/awesome-cursorrules).
+Curated from [cursor-designer](https://github.com/spencergoldade/cursor-designer), [awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills), [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules), [tugkanboz/awesome-cursorrules](https://github.com/tugkanboz/awesome-cursorrules), and [Adam Hayes — The UX Laws in My CLAUDE.md](https://adamhayes.xyz/blog/the-ux-laws-in-my-claude-md).
 
 See [ATTRIBUTION.md](./ATTRIBUTION.md) for **file-level source mapping** and license details.
 

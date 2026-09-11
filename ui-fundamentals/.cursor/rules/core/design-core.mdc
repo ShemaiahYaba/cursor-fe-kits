@@ -21,6 +21,7 @@ These principles apply to every task, regardless of stack, feature, or platform.
   - **Error prevention and recovery**: prevent mistakes where possible and provide clear recovery paths.
 - Always maintain a clear **mental model** for the user: what they can do, where they are, and what happens next.
 - Prefer **progressive disclosure** over overwhelming users with all options at once.
+- Apply named **UX design laws** (Hick, Fitts, Jakob, Miller, Doherty, and related principles) when making layout and flow decisions — see `frontend/ux-design-laws.mdc`.
 
 ## UI Foundations
 

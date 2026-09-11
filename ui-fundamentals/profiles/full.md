@@ -7,7 +7,7 @@ Copy everything from `ui-fundamentals/` into your project for complete coverage.
 | Folder | Files | Purpose |
 |--------|-------|---------|
 | `core/` | 2 | Always-on UX principles + agent constraints |
-| `frontend/` | 8 | Layout, states, visual language, a11y, IA, forms, flows, copy |
+| `frontend/` | 9 | Layout, states, visual language, a11y, IA, forms, flows, copy, **UX laws** |
 | `binders/` | 2 | Cross-platform consistency + pre-release QA checklist |
 | `supplements/` | 3 | RTL layout, image quality, optional Toss aesthetic |
 
@@ -16,6 +16,9 @@ Copy everything from `ui-fundamentals/` into your project for complete coverage.
 - `tokens/spacing.md`, `typography.md`, `colors.md` — fill in your scale
 - `ia/navigation.md` — sitemap template
 - `content/voice-and-tone.md` — brand voice
+- `content/ux-design-laws.md` — UX laws reference (human-readable)
+
+**Optional — brand aesthetic:** [Refero Styles](https://styles.refero.design/) `DESIGN.md` files — see [design/references.md](../design/references.md)
 
 ## Skills → `~/.cursor/skills/` or project skills folder
 
